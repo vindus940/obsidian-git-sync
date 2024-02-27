@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "103f4d679aef25b2",
+    "id": "c1731c2a4bcb94ef",
     "type": "split",
     "children": [
       {
-        "id": "bbab7afb27621526",
+        "id": "77fec4627e8b40ff",
         "type": "tabs",
         "children": [
           {
-            "id": "37dcf040527195c2",
+            "id": "c41a88f630a5c966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Code/HOTKEYS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "620f8ed93029e4d8",
+    "id": "3dfefc714d46d8ea",
     "type": "split",
     "children": [
       {
-        "id": "91d075816d5ea1ea",
+        "id": "41302fffd3efa36e",
         "type": "tabs",
         "children": [
           {
-            "id": "4999a77e4831dd44",
+            "id": "5bfd7a4ac73b9a46",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "05bd8e2fa9460d85",
+            "id": "cee2a2863145f4d7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,15 @@
             }
           },
           {
-            "id": "a3e3ee8afec28aae",
+            "id": "2f5e7ed00200d42c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "281a5e74f0081193",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,24 +80,24 @@
     "width": 300
   },
   "right": {
-    "id": "920a9a1808d82358",
+    "id": "adf85d648798fc93",
     "type": "split",
     "children": [
       {
-        "id": "a6d6b19ec2d29a10",
+        "id": "535bcdb9c1224d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "53b69bb68da31133",
+            "id": "e89549d4ab5d99b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Code/HOTKEYS.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "88dd2121f46f94bc",
+            "id": "9fd305c71849fa1c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Code/HOTKEYS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4571704f602cbaf1",
+            "id": "3f24d05442efe978",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +128,33 @@
             }
           },
           {
-            "id": "9baff025bd99715d",
+            "id": "64dcb012f8d70bfe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Code/HOTKEYS.md"
+              }
+            }
+          },
+          {
+            "id": "83998531a53b0e67",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,6 +166,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37dcf040527195c2",
-  "lastOpenFiles": []
+  "active": "c41a88f630a5c966",
+  "lastOpenFiles": [
+    "Engl/Dialogue.md",
+    "Engl/Новые слова.md",
+    "Тестирование ПО.md",
+    "Code/HOTKEYS.md",
+    "Code/Теория/QA теория.md",
+    "Причина возникновения власти 1.md",
+    "Без названия 1.canvas",
+    "Без названия.md",
+    "Без названия.canvas",
+    "Тестирование.md",
+    "С++/Определения.md",
+    "Алгоритмы/План.md",
+    "watch list.md",
+    "Engl/who goes there.md",
+    "Engl/Life is strange.md",
+    "Engl/words.md",
+    "Tablitsa-tarifov-Finam-primer.jpg",
+    "Pasted image 20231205230026.png",
+    "Pasted image 20230830205947.png",
+    "Pasted image 20230725223636.png",
+    "Pasted image 20231221162813.png",
+    "Pasted image 20231205230258.png",
+    "книги.md",
+    "GTFO/R2B4.md",
+    "GTFO/R2B2.md",
+    "GTFO",
+    "Engl/grammar.md",
+    "Engl/free wrating.md",
+    "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
+    "Заметки/Балдвин 4.md",
+    "Заметки/Япония.md",
+    "Заметки/Терминалогия.md",
+    "Заметки/Рандом.md",
+    "Заметки/Гильотина Юма.md",
+    "Робот-манипулятор/Термины.md",
+    "С++",
+    "Робот-манипулятор"
+  ]
 }
