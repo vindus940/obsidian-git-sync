@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/HOTKEYS.md",
+                "file": "Тестирование ПО.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/HOTKEYS.md",
+                "file": "Тестирование ПО.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/HOTKEYS.md",
+                "file": "Тестирование ПО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/HOTKEYS.md"
+                "file": "Тестирование ПО.md"
               }
             }
           },
@@ -168,10 +168,10 @@
   },
   "active": "c41a88f630a5c966",
   "lastOpenFiles": [
+    "Code/HOTKEYS.md",
     "Engl/Dialogue.md",
     "Engl/Новые слова.md",
     "Тестирование ПО.md",
-    "Code/HOTKEYS.md",
     "Code/Теория/QA теория.md",
     "Причина возникновения власти 1.md",
     "Без названия 1.canvas",
