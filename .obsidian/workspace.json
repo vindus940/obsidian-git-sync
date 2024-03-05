@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Заметки/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Заметки/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Заметки/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "games/Карта игр.md"
+                "file": "Заметки/Untitled.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "c41a88f630a5c966",
   "lastOpenFiles": [
+    "games/Карта игр.md",
+    "Заметки/Untitled.md",
     "watch list.md",
     "Тестирование ПО.md",
     "Code/HOTKEYS.md",
@@ -201,8 +203,6 @@
     "Заметки/Япония.md",
     "Заметки/Терминалогия.md",
     "Заметки/Рандом.md",
-    "Заметки/Гильотина Юма.md",
-    "Робот-манипулятор/Термины.md",
     "С++",
     "Робот-манипулятор"
   ]
