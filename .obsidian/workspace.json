@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Вперед к мануфактуре !!!.md",
+                "file": "watch list.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Вперед к мануфактуре !!!.md",
+                "file": "watch list.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Вперед к мануфактуре !!!.md",
+                "file": "watch list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Вперед к мануфактуре !!!.md"
+                "file": "watch list.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "c41a88f630a5c966",
   "lastOpenFiles": [
-    "watch list.md",
     "Заметки/Вперед к мануфактуре !!!.md",
+    "watch list.md",
     "games/Карта игр.md",
     "Тестирование ПО.md",
     "Code/HOTKEYS.md",

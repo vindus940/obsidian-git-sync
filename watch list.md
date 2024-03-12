@@ -28,7 +28,6 @@ Wonder Egg Priority
 укрытие 2023
 
 «Путешествие с Жириновским»
-Выродок
 Blood Tide (Richard Jefferies, 1982)
 Упырь (1997)
 «Последний киносеанс»
