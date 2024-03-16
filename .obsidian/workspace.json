@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "watch list.md",
+                "file": "Заметки/Япония.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a90e75eaf0b52e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "watch list.md",
+                "file": "Алгоритмы.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "watch list.md",
+                "file": "Алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "watch list.md"
+                "file": "Алгоритмы.md"
               }
             }
           },
@@ -166,11 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c41a88f630a5c966",
+  "active": "a90e75eaf0b52e47",
   "lastOpenFiles": [
+    "Заметки/Япония.md",
+    "Алгоритмы.md",
+    "watch list.md",
+    "Untitled",
     "games/Карта игр.md",
     "Engl/Новые слова.md",
-    "watch list.md",
     "Заметки/Вперед к мануфактуре !!!.md",
     "Тестирование ПО.md",
     "Code/HOTKEYS.md",
@@ -200,9 +216,7 @@
     "Engl/free wrating.md",
     "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
     "Заметки/Балдвин 4.md",
-    "Заметки/Япония.md",
     "Заметки/Терминалогия.md",
-    "Заметки/Рандом.md",
     "С++",
     "Робот-манипулятор"
   ]
