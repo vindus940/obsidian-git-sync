@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engl/Новые слова.md",
+                "file": "Заметки/Балдвин 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engl/Новые слова.md",
+                "file": "Заметки/Балдвин 4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engl/Новые слова.md",
+                "file": "Заметки/Балдвин 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engl/Новые слова.md"
+                "file": "Заметки/Балдвин 4.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "a90e75eaf0b52e47",
   "lastOpenFiles": [
+    "Engl/Новые слова.md",
     "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
     "Заметки/Балдвин 4.md",
-    "Engl/Новые слова.md",
     "Алгоритмы.md",
     "Заметки/Япония.md",
     "watch list.md",
