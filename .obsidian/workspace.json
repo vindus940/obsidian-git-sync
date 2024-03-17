@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "Заметки/Балдвин 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "Заметки/Балдвин 4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "Заметки/Балдвин 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгоритмы.md"
+                "file": "Заметки/Балдвин 4.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "a90e75eaf0b52e47",
   "lastOpenFiles": [
-    "Заметки/Япония.md",
     "Алгоритмы.md",
+    "Заметки/Япония.md",
     "watch list.md",
     "Untitled",
     "games/Карта игр.md",
