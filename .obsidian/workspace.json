@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1a4604b63961046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ссылки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "ссылки.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "ссылки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгоритмы.md"
+                "file": "ссылки.md"
               }
             }
           },
@@ -179,12 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a90e75eaf0b52e47",
+  "active": "d1a4604b63961046",
   "lastOpenFiles": [
+    "Алгоритмы.md",
+    "ссылки.md",
     "Заметки/Балдвин 4.md",
     "Engl/Новые слова.md",
     "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
-    "Алгоритмы.md",
     "Заметки/Япония.md",
     "watch list.md",
     "Untitled",
@@ -216,7 +229,6 @@
     "GTFO",
     "Engl/grammar.md",
     "Engl/free wrating.md",
-    "Заметки/Терминалогия.md",
     "С++",
     "Робот-манипулятор"
   ]
