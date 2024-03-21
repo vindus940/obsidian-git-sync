@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "a90e75eaf0b52e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d1a4604b63961046",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +193,10 @@
   },
   "active": "6d7b1a9248677ce2",
   "lastOpenFiles": [
+    "Алгоритмы.md",
     "Заметки/заметки.md",
     "Заметки/Гильотина Юма.md",
     "ссылки.md",
-    "Алгоритмы.md",
     "Заметки/Балдвин 4.md",
     "Engl/Новые слова.md",
     "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
