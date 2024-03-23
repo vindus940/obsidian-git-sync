@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Химия.md",
+                "file": "Стихи/Жагала сраму.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Химия.md",
+                "file": "Стихи/Жагала сраму.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Химия.md",
+                "file": "Стихи/Жагала сраму.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Химия.md"
+                "file": "Стихи/Жагала сраму.md"
               }
             }
           },
@@ -205,9 +205,10 @@
   },
   "active": "4ecd025163d0a92b",
   "lastOpenFiles": [
-    "Заметки/заметки.md",
-    "Химия.md",
     "Алгоритмы.md",
+    "Pasted image 20240323210632.png",
+    "Химия.md",
+    "Заметки/заметки.md",
     "Заметки/Гильотина Юма.md",
     "ссылки.md",
     "Заметки/Балдвин 4.md",
@@ -239,7 +240,6 @@
     "Pasted image 20231221162813.png",
     "Pasted image 20231205230258.png",
     "книги.md",
-    "GTFO/R2B4.md",
     "GTFO",
     "С++",
     "Робот-манипулятор"
