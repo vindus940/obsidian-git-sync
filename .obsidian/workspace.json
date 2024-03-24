@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стихи/Жагала сраму.md",
+                "file": "watch list.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стихи/Жагала сраму.md",
+                "file": "watch list.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стихи/Жагала сраму.md",
+                "file": "watch list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стихи/Жагала сраму.md"
+                "file": "watch list.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   },
   "active": "4ecd025163d0a92b",
   "lastOpenFiles": [
+    "Стихи/Жагала сраму.md",
     "Алгоритмы.md",
     "Pasted image 20240323210632.png",
     "Химия.md",
