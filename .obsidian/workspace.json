@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engl/words.md",
+                "file": "Engl/Полиглот.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engl/words.md",
+                "file": "Engl/Полиглот.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engl/words.md",
+                "file": "Engl/Полиглот.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engl/words.md"
+                "file": "Engl/Полиглот.md"
               }
             }
           },
@@ -205,10 +205,13 @@
   },
   "active": "4ecd025163d0a92b",
   "lastOpenFiles": [
+    "Pasted image 20240324184508.png",
+    "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
+    "Engl/Полиглот.md",
+    "Engl/words.md",
     "Engl/who goes there.md",
     "Engl/Dialogue.md",
     "Engl/Новые слова.md",
-    "Engl/words.md",
     "Engl/Life is strange.md",
     "Заметки/заметки.md",
     "Тестирование ПО.md",
@@ -222,7 +225,6 @@
     "Алгоритмы.md",
     "Заметки/Гильотина Юма.md",
     "Заметки/Балдвин 4.md",
-    "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
     "Заметки/Япония.md",
     "Untitled",
     "games/Карта игр.md",
@@ -233,8 +235,6 @@
     "Без названия.md",
     "Без названия.canvas",
     "Тестирование.md",
-    "С++/Определения.md",
-    "Алгоритмы/План.md",
     "Tablitsa-tarifov-Finam-primer.jpg",
     "Pasted image 20231205230026.png",
     "Pasted image 20230830205947.png",
