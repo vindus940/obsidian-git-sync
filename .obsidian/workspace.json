@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "watch list.md",
+                "file": "Заметки/заметки.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "watch list.md",
+                "file": "Заметки/заметки.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "watch list.md",
+                "file": "Заметки/заметки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "watch list.md"
+                "file": "Заметки/заметки.md"
               }
             }
           },
@@ -205,26 +205,27 @@
   },
   "active": "4ecd025163d0a92b",
   "lastOpenFiles": [
+    "Тестирование ПО.md",
+    "ссылки.md",
+    "Философия.md",
+    "Химия.md",
+    "Pasted image 20240323210632.png",
+    "Причина возникновения власти 1.md",
+    "watch list.md",
     "Стихи/Жагала сраму.md",
     "Алгоритмы.md",
-    "Pasted image 20240323210632.png",
-    "Химия.md",
     "Заметки/заметки.md",
     "Заметки/Гильотина Юма.md",
-    "ссылки.md",
     "Заметки/Балдвин 4.md",
     "Engl/Новые слова.md",
     "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
     "Заметки/Япония.md",
-    "watch list.md",
     "Untitled",
     "games/Карта игр.md",
     "Заметки/Вперед к мануфактуре !!!.md",
-    "Тестирование ПО.md",
     "Code/HOTKEYS.md",
     "Engl/Dialogue.md",
     "Code/Теория/QA теория.md",
-    "Причина возникновения власти 1.md",
     "Без названия 1.canvas",
     "Без названия.md",
     "Без названия.canvas",
@@ -240,7 +241,6 @@
     "Pasted image 20230725223636.png",
     "Pasted image 20231221162813.png",
     "Pasted image 20231205230258.png",
-    "книги.md",
     "GTFO",
     "С++",
     "Робот-манипулятор"
