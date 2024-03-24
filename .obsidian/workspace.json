@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/заметки.md",
+                "file": "Engl/words.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/заметки.md",
+                "file": "Engl/words.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/заметки.md",
+                "file": "Engl/words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/заметки.md"
+                "file": "Engl/words.md"
               }
             }
           },
@@ -205,6 +205,12 @@
   },
   "active": "4ecd025163d0a92b",
   "lastOpenFiles": [
+    "Engl/who goes there.md",
+    "Engl/Dialogue.md",
+    "Engl/Новые слова.md",
+    "Engl/words.md",
+    "Engl/Life is strange.md",
+    "Заметки/заметки.md",
     "Тестирование ПО.md",
     "ссылки.md",
     "Философия.md",
@@ -214,17 +220,14 @@
     "watch list.md",
     "Стихи/Жагала сраму.md",
     "Алгоритмы.md",
-    "Заметки/заметки.md",
     "Заметки/Гильотина Юма.md",
     "Заметки/Балдвин 4.md",
-    "Engl/Новые слова.md",
     "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
     "Заметки/Япония.md",
     "Untitled",
     "games/Карта игр.md",
     "Заметки/Вперед к мануфактуре !!!.md",
     "Code/HOTKEYS.md",
-    "Engl/Dialogue.md",
     "Code/Теория/QA теория.md",
     "Без названия 1.canvas",
     "Без названия.md",
@@ -232,9 +235,6 @@
     "Тестирование.md",
     "С++/Определения.md",
     "Алгоритмы/План.md",
-    "Engl/who goes there.md",
-    "Engl/Life is strange.md",
-    "Engl/words.md",
     "Tablitsa-tarifov-Finam-primer.jpg",
     "Pasted image 20231205230026.png",
     "Pasted image 20230830205947.png",
