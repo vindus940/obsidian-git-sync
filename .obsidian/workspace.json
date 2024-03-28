@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ecd025163d0a92b",
+  "active": "83998531a53b0e67",
   "lastOpenFiles": [
     "watch list.md",
     "math/Дроби.md",
