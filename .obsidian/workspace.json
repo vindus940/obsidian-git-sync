@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "watch list.md",
+                "file": "math/Дроби.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "watch list.md",
+                "file": "math/Дроби.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "watch list.md",
+                "file": "math/Дроби.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "watch list.md"
+                "file": "math/Дроби.md"
               }
             }
           },
@@ -205,6 +205,9 @@
   },
   "active": "4ecd025163d0a92b",
   "lastOpenFiles": [
+    "watch list.md",
+    "math/Дроби.md",
+    "math",
     "Engl/Полиглот.md",
     "Pasted image 20240324190100.png",
     "Pasted image 20240324184508.png",
@@ -221,13 +224,11 @@
     "Химия.md",
     "Pasted image 20240323210632.png",
     "Причина возникновения власти 1.md",
-    "watch list.md",
     "Стихи/Жагала сраму.md",
     "Алгоритмы.md",
     "Заметки/Гильотина Юма.md",
     "Заметки/Балдвин 4.md",
     "Заметки/Япония.md",
-    "Untitled",
     "games/Карта игр.md",
     "Заметки/Вперед к мануфактуре !!!.md",
     "Code/HOTKEYS.md",
