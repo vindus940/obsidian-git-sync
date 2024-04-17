@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "845813aca3ff47e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "watch list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,16 +216,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ecd025163d0a92b",
+  "active": "845813aca3ff47e7",
   "lastOpenFiles": [
+    "Pasted image 20240328115051.png",
+    "Pasted image 20240324184508.png",
+    "Pasted image 20240323210632.png",
     "math/Дроби.md",
     "Pasted image 20240328115759.png",
-    "Pasted image 20240328115051.png",
     "watch list.md",
     "math",
     "Engl/Полиглот.md",
     "Pasted image 20240324190100.png",
-    "Pasted image 20240324184508.png",
     "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
     "Engl/words.md",
     "Engl/who goes there.md",
@@ -225,7 +238,6 @@
     "ссылки.md",
     "Философия.md",
     "Химия.md",
-    "Pasted image 20240323210632.png",
     "Причина возникновения власти 1.md",
     "Стихи/Жагала сраму.md",
     "Алгоритмы.md",
