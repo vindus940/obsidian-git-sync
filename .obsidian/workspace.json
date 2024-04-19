@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "watch list.md",
+                "file": "games/Карта игр.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "watch list.md",
+                "file": "games/Карта игр.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "watch list.md",
+                "file": "games/Карта игр.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "watch list.md"
+                "file": "games/Карта игр.md"
               }
             }
           },
@@ -218,12 +218,17 @@
   },
   "active": "845813aca3ff47e7",
   "lastOpenFiles": [
+    "книги.md",
+    "ссылки.md",
+    "Тестирование ПО.md",
+    "Химия.md",
+    "README.md",
+    "watch list.md",
     "Pasted image 20240328115051.png",
     "Pasted image 20240324184508.png",
     "Pasted image 20240323210632.png",
     "math/Дроби.md",
     "Pasted image 20240328115759.png",
-    "watch list.md",
     "math",
     "Engl/Полиглот.md",
     "Pasted image 20240324190100.png",
@@ -234,10 +239,7 @@
     "Engl/Новые слова.md",
     "Engl/Life is strange.md",
     "Заметки/заметки.md",
-    "Тестирование ПО.md",
-    "ссылки.md",
     "Философия.md",
-    "Химия.md",
     "Причина возникновения власти 1.md",
     "Стихи/Жагала сраму.md",
     "Алгоритмы.md",
@@ -249,7 +251,6 @@
     "Code/HOTKEYS.md",
     "Code/Теория/QA теория.md",
     "Без названия 1.canvas",
-    "Без названия.md",
     "Без названия.canvas",
     "Tablitsa-tarifov-Finam-primer.jpg",
     "Pasted image 20231205230026.png",
