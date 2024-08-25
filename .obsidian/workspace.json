@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Книги/Untitled.md",
+                "file": "Заметки/Книги/Яма.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Книги/Untitled.md",
+                "file": "Заметки/Книги/Яма.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Книги/Untitled.md",
+                "file": "Заметки/Книги/Яма.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Книги/Untitled.md"
+                "file": "Заметки/Книги/Яма.md"
               }
             }
           },
@@ -170,7 +170,7 @@
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
     "Заметки/Книги/Завгар.md",
-    "Заметки/Книги/Untitled.md",
+    "Заметки/Книги/Яма.md",
     "Code/Сервисы.md",
     "games/Карта игр.md",
     "watch list.md",
