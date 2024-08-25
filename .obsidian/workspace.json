@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Медицина/медицина.md",
+                "file": "Заметки/Книги/Паутина.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Медицина/медицина.md",
+                "file": "Заметки/Книги/Паутина.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Медицина/медицина.md",
+                "file": "Заметки/Книги/Паутина.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Медицина/медицина.md"
+                "file": "Заметки/Книги/Паутина.md"
               }
             }
           },
@@ -169,12 +169,13 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
+    "Заметки/Медицина/медицина.md",
+    "Заметки/Книги/Паутина.md",
     "Заметки/заметки.md",
     "Заметки/Книги/Террор.md",
     "Заметки/Терминалогия.md",
     "Заметки/Книги/Юлиан отступник.md",
     "Заметки/Книги/Искра жизни.md",
-    "Заметки/Медицина/медицина.md",
     "Заметки/Ирландское право.md",
     "Pasted image 20240825181410.png",
     "watch list.md",
@@ -205,7 +206,6 @@
     "math/Дроби.md",
     "math",
     "Engl/Полиглот.md",
-    "Engl/Изучение взаимосвязи между опытом в видеоиграх и подвижным интеллектом.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Tablitsa-tarifov-Finam-primer.jpg",
