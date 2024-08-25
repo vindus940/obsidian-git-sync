@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/заметки.md",
+                "file": "Заметки/Книги/Завгар.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/заметки.md",
+                "file": "Заметки/Книги/Завгар.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/заметки.md",
+                "file": "Заметки/Книги/Завгар.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/заметки.md"
+                "file": "Заметки/Книги/Завгар.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
+    "Заметки/заметки.md",
     "Заметки/Книги/Завгар.md",
     "Заметки/Книги",
     "games/Карта игр.md",
@@ -192,7 +193,6 @@
     "Engl/Dialogue.md",
     "Engl/Новые слова.md",
     "Engl/Life is strange.md",
-    "Заметки/заметки.md",
     "Философия.md",
     "Причина возникновения власти 1.md",
     "Стихи/Жагала сраму.md",
