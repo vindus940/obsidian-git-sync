@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Книги/Яма.md",
+                "file": "Заметки/Книги/В овраге.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Книги/Яма.md",
+                "file": "Заметки/Книги/В овраге.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Книги/Яма.md",
+                "file": "Заметки/Книги/В овраге.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Книги/Яма.md"
+                "file": "Заметки/Книги/В овраге.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
-    "Заметки/Книги/Завгар.md",
     "Заметки/Книги/Яма.md",
+    "Заметки/Книги/В овраге.md",
+    "Заметки/Книги/Завгар.md",
     "Code/Сервисы.md",
     "games/Карта игр.md",
     "watch list.md",
@@ -204,7 +205,6 @@
     "Engl/Dialogue.md",
     "Engl/Новые слова.md",
     "Engl/Life is strange.md",
-    "Философия.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Tablitsa-tarifov-Finam-primer.jpg",
