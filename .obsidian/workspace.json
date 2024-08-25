@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Терминалогия.md",
+                "file": "Заметки/Медицина/медицина.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Терминалогия.md",
+                "file": "Заметки/Медицина/медицина.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Терминалогия.md",
+                "file": "Заметки/Медицина/медицина.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Терминалогия.md"
+                "file": "Заметки/Медицина/медицина.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
+    "Заметки/Ирландское право.md",
+    "Заметки/Терминалогия.md",
     "Pasted image 20240825181410.png",
     "Заметки/заметки.md",
     "watch list.md",
@@ -204,12 +206,10 @@
     "Engl/words.md",
     "Engl/who goes there.md",
     "Engl/Dialogue.md",
-    "Engl/Новые слова.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Tablitsa-tarifov-Finam-primer.jpg",
     "Pasted image 20231205230026.png",
-    "Pasted image 20230830205947.png",
     "GTFO",
     "С++",
     "Робот-манипулятор"
