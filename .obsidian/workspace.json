@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Книги/В овраге.md",
+                "file": "watch list.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Книги/В овраге.md",
+                "file": "watch list.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Книги/В овраге.md",
+                "file": "watch list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Книги/В овраге.md"
+                "file": "watch list.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
-    "Заметки/Книги/Яма.md",
     "Заметки/Книги/В овраге.md",
+    "Заметки/Книги/Яма.md",
     "Заметки/Книги/Завгар.md",
     "Code/Сервисы.md",
     "games/Карта игр.md",
