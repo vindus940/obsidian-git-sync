@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "watch list.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "watch list.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "watch list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "games/Карта игр.md"
+                "file": "watch list.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
+    "games/Карта игр.md",
     "Заметки/заметки.md",
     "Заметки/Книги/Завгар.md",
     "Заметки/Книги",
-    "games/Карта игр.md",
     "книги.md",
     "ссылки.md",
     "Тестирование ПО.md",
