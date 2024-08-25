@@ -33,3 +33,5 @@ so am i - ответ
 
 WHAT KIND?
 What kind of book are you reading?
+
+![[Pasted image 20240825175521.png]]
