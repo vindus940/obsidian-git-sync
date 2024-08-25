@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Code/Сервисы.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Code/Сервисы.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Code/Сервисы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "games/Карта игр.md"
+                "file": "Code/Сервисы.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
+    "games/Карта игр.md",
     "watch list.md",
     "Причина возникновения власти 1.md",
     "Pasted image 20240825175431.png",
@@ -184,7 +185,6 @@
     "Заметки/Медицина/медицина.md",
     "Заметки/Балдвин 4.md",
     "Заметки/Медицина",
-    "games/Карта игр.md",
     "Заметки/заметки.md",
     "Заметки/Книги/Завгар.md",
     "Заметки/Книги",
