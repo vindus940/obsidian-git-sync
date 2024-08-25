@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Медицина/медицина.md",
+                "file": "Заметки/Терминалогия.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Медицина/медицина.md",
+                "file": "Заметки/Терминалогия.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Медицина/медицина.md",
+                "file": "Заметки/Терминалогия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Медицина/медицина.md"
+                "file": "Заметки/Терминалогия.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
+    "Заметки/Медицина/медицина.md",
     "Заметки/Ирландское право.md",
     "Заметки/Терминалогия.md",
     "Pasted image 20240825181410.png",
@@ -189,7 +190,6 @@
     "Pasted image 20240825175521.png",
     "Code/Теория/Теория 1.md",
     "Code/HOTKEYS.md",
-    "Заметки/Медицина/медицина.md",
     "Заметки/Балдвин 4.md",
     "Заметки/Медицина",
     "Заметки/Книги",
