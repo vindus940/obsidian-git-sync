@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "watch list.md",
+                "file": "games/Карта игр.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "watch list.md",
+                "file": "games/Карта игр.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "watch list.md",
+                "file": "games/Карта игр.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "watch list.md"
+                "file": "games/Карта игр.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
+    "watch list.md",
     "Причина возникновения власти 1.md",
     "Pasted image 20240825175431.png",
     "Pasted image 20240328115759.png",
@@ -182,7 +183,6 @@
     "Code/HOTKEYS.md",
     "Заметки/Медицина/медицина.md",
     "Заметки/Балдвин 4.md",
-    "watch list.md",
     "Заметки/Медицина",
     "games/Карта игр.md",
     "Заметки/заметки.md",
