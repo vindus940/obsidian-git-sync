@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Сервисы.md",
+                "file": "Заметки/Книги/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Сервисы.md",
+                "file": "Заметки/Книги/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Сервисы.md",
+                "file": "Заметки/Книги/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Сервисы.md"
+                "file": "Заметки/Книги/Untitled.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
-    "games/Карта игр.md",
+    "Заметки/Книги/Завгар.md",
+    "Заметки/Книги/Untitled.md",
     "Code/Сервисы.md",
+    "games/Карта игр.md",
     "watch list.md",
     "Причина возникновения власти 1.md",
     "Pasted image 20240825175431.png",
@@ -186,7 +188,6 @@
     "Заметки/Балдвин 4.md",
     "Заметки/Медицина",
     "Заметки/заметки.md",
-    "Заметки/Книги/Завгар.md",
     "Заметки/Книги",
     "книги.md",
     "ссылки.md",
