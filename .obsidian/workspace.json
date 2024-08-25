@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Книги/Юлиан отступник.md",
+                "file": "Заметки/заметки.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Книги/Юлиан отступник.md",
+                "file": "Заметки/заметки.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Книги/Юлиан отступник.md",
+                "file": "Заметки/заметки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Книги/Юлиан отступник.md"
+                "file": "Заметки/заметки.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "f636a3f7226a5a32",
   "lastOpenFiles": [
-    "Заметки/заметки.md",
     "Заметки/Книги/Юлиан отступник.md",
+    "Заметки/заметки.md",
     "Заметки/Книги/Искра жизни.md",
     "Заметки/Терминалогия.md",
     "Заметки/Медицина/медицина.md",
