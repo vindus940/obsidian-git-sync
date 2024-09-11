@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ca82a95aa5dd850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "С++/Определения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Терминалогия.md",
+                "file": "С++/Определения.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Терминалогия.md",
+                "file": "С++/Определения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Терминалогия.md"
+                "file": "С++/Определения.md"
               }
             }
           },
@@ -167,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f636a3f7226a5a32",
+  "active": "0ca82a95aa5dd850",
   "lastOpenFiles": [
     "Заметки/Книги/Паутина.md",
     "Заметки/Медицина/медицина.md",
