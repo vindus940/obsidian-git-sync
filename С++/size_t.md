@@ -11,3 +11,9 @@
 > It is a type able to represent the size of any object in bytes: size_t is the type returned by the sizeof operator and is widely used in the standard library to represent sizes and counts.
 
 Предназначен для отображения **размера** любого объекта в байтах: это возвращает size_of и много функций стандартной библиотеки - всякие length и count.
+
+Пример использования в цикле: 
+        for (size_t i = 0; i < nums.size(); ++i)
+        {
+            std::cout << (i + 1) << " - " << nums[i] << '\n';
+        }
