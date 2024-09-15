@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "С++/Определения.md",
+                "file": "С++/size_t.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С++/Определения.md",
+                "file": "С++/size_t.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "С++/Определения.md",
+                "file": "С++/size_t.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "С++/Определения.md"
+                "file": "С++/size_t.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "0ca82a95aa5dd850",
   "lastOpenFiles": [
+    "С++/Определения.md",
+    "С++/size_t.md",
     "Заметки/Книги/Паутина.md",
     "Заметки/Медицина/медицина.md",
     "Заметки/заметки.md",
@@ -216,9 +218,7 @@
     "Химия.md",
     "README.md",
     "Pasted image 20240328115051.png",
-    "math/Дроби.md",
     "math",
-    "Engl/Полиглот.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Tablitsa-tarifov-Finam-primer.jpg",
