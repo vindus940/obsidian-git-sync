@@ -23,11 +23,9 @@
             "id": "0ca82a95aa5dd850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Украинское гос-во/Гос-во украины.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240825175521.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Украинское гос-во/Гос-во украины.md",
+                "file": "Pasted image 20240825175521.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Украинское гос-во/Гос-во украины.md",
+                "file": "Pasted image 20240825175521.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Украинское гос-во/Гос-во украины.md"
+                "file": "Pasted image 20240825175521.png"
               }
             }
           },
@@ -182,11 +180,15 @@
   },
   "active": "0ca82a95aa5dd850",
   "lastOpenFiles": [
+    "Pasted image 20240328115759.png",
+    "Pasted image 20240328115051.png",
+    "Pasted image 20240324184508.png",
+    "Pasted image 20240323210632.png",
+    "Украинское гос-во/Гос-во украины.md",
     "Pasted image 20241003212758.png",
     "Pasted image 20241003212734.png",
     "Pasted image 20241003212721.png",
     "Алгоритмы.md",
-    "Украинское гос-во/Гос-во украины.md",
     "games/Карта игр.md",
     "Украинское гос-во",
     "С++/size_t.md",
@@ -207,10 +209,7 @@
     "Code/Сервисы.md",
     "Причина возникновения власти 1.md",
     "Pasted image 20240825175431.png",
-    "Pasted image 20240328115759.png",
     "Pasted image 20240324190100.png",
-    "Pasted image 20240324184508.png",
-    "Pasted image 20240323210632.png",
     "Engl/grammar.md",
     "Pasted image 20240825175521.png",
     "Code/Теория/Теория 1.md",
@@ -220,7 +219,6 @@
     "Заметки/Книги",
     "книги.md",
     "ссылки.md",
-    "Pasted image 20240328115051.png",
     "math",
     "Без названия 1.canvas",
     "Без названия.canvas",
