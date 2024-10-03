@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "С++/size_t.md",
+                "file": "games/Карта игр.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С++/size_t.md",
+                "file": "games/Карта игр.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "С++/size_t.md",
+                "file": "games/Карта игр.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "С++/size_t.md"
+                "file": "games/Карта игр.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "0ca82a95aa5dd850",
   "lastOpenFiles": [
-    "С++/Определения.md",
     "С++/size_t.md",
+    "С++/Определения.md",
     "Заметки/Книги/Паутина.md",
     "Заметки/Медицина/медицина.md",
     "Заметки/заметки.md",
