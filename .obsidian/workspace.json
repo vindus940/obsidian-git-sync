@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Украинское гос-во/Гос-во украины.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Украинское гос-во/Гос-во украины.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "Украинское гос-во/Гос-во украины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "games/Карта игр.md"
+                "file": "Украинское гос-во/Гос-во украины.md"
               }
             }
           },
@@ -182,6 +182,11 @@
   },
   "active": "0ca82a95aa5dd850",
   "lastOpenFiles": [
+    "Pasted image 20241003212721.png",
+    "Алгоритмы.md",
+    "Украинское гос-во/Гос-во украины.md",
+    "games/Карта игр.md",
+    "Украинское гос-во",
     "С++/size_t.md",
     "С++/Определения.md",
     "Заметки/Книги/Паутина.md",
@@ -198,7 +203,6 @@
     "Заметки/Книги/Яма.md",
     "Заметки/Книги/Завгар.md",
     "Code/Сервисы.md",
-    "games/Карта игр.md",
     "Причина возникновения власти 1.md",
     "Pasted image 20240825175431.png",
     "Pasted image 20240328115759.png",
@@ -214,9 +218,6 @@
     "Заметки/Книги",
     "книги.md",
     "ссылки.md",
-    "Тестирование ПО.md",
-    "Химия.md",
-    "README.md",
     "Pasted image 20240328115051.png",
     "math",
     "Без названия 1.canvas",
