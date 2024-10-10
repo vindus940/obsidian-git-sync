@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "watch list.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "watch list.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "games/Карта игр.md",
+                "file": "watch list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "games/Карта игр.md"
+                "file": "watch list.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "0ca82a95aa5dd850",
   "lastOpenFiles": [
+    "games/Карта игр.md",
     "Pasted image 20240825175521.png",
     "Pasted image 20240328115759.png",
     "Pasted image 20240328115051.png",
@@ -192,7 +193,6 @@
     "Pasted image 20241003212734.png",
     "Pasted image 20241003212721.png",
     "Алгоритмы.md",
-    "games/Карта игр.md",
     "Украинское гос-во",
     "С++/size_t.md",
     "С++/Определения.md",
@@ -212,7 +212,6 @@
     "Code/Сервисы.md",
     "Причина возникновения власти 1.md",
     "Pasted image 20240825175431.png",
-    "Pasted image 20240324190100.png",
     "Engl/grammar.md",
     "Code/Теория/Теория 1.md",
     "Code/HOTKEYS.md",
