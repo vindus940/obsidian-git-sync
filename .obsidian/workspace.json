@@ -39,12 +39,14 @@
             "id": "acb66a81366f2462",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240323210632.png"
+                "file": "Украинское гос-во/Гос-во украины.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240323210632"
+              "icon": "lucide-file",
+              "title": "Гос-во украины"
             }
           }
         ],
@@ -212,17 +214,18 @@
   },
   "active": "acb66a81366f2462",
   "lastOpenFiles": [
+    "Химия.md",
+    "Алгоритмы.md",
     "games/Карта игр.md",
+    "Pasted image 20240323210632.png",
     "Pasted image 20240825175521.png",
     "Pasted image 20240328115759.png",
     "Pasted image 20240328115051.png",
     "Pasted image 20240324184508.png",
-    "Pasted image 20240323210632.png",
     "Украинское гос-во/Гос-во украины.md",
     "Pasted image 20241003212758.png",
     "Pasted image 20241003212734.png",
     "Pasted image 20241003212721.png",
-    "Алгоритмы.md",
     "Украинское гос-во",
     "С++/size_t.md",
     "С++/Определения.md",
