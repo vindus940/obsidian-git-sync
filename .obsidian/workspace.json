@@ -39,12 +39,12 @@
             "id": "acb66a81366f2462",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Pasted image 20240323210632.png"
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "icon": "lucide-image",
+              "title": "Pasted image 20240323210632"
             }
           }
         ],
