@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Гос-во украины"
             }
+          },
+          {
+            "id": "e1a188cff07039fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Украинское гос-во/Гос-во украины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Гос-во украины"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -212,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acb66a81366f2462",
+  "active": "e1a188cff07039fe",
   "lastOpenFiles": [
     "Причина возникновения власти 1.md",
     "Украинское гос-во/Гос-во украины.md",
